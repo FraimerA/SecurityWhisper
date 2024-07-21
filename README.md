@@ -1,4 +1,7 @@
-# Fraimer Aquiles Carrasco Santana - 2022-0485
-## Una aplicacion para guardar incidencias 
+# DESCRIPCIÓN
 
-### Desarrollado en Flutter
+ Estudiante: Fraimer Aquiles Carrasco Santana - 2022-0485
+
+## Aplicacion
+
+Una aplicación desarrollada en flutter que te permite guardar incidencias.
